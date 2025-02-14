@@ -5,3 +5,4 @@ llama-index-llms-together
 streamlit
 huggingface-hub
 transformers
+llama-index-embeddings-huggingface

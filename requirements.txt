@@ -1,0 +1,7 @@
+pdfplumber
+llama-index
+together
+llama-index-llms-together
+streamlit
+huggingface-hub
+transformers

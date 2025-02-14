@@ -2,6 +2,11 @@
 
 LlamaIndex와 Together AI, Hugging Face를 활용한 Streamlit 문서 검색 애플리케이션입니다.
 
+https://st-llamaindex-together-h7ffcqt6242byzecmjgguc.streamlit.app
+
+![image](image.png)
+
+
 ## 소개
 이 프로젝트는 LlamaIndex를 사용하여 문서를 벡터화하고, Together AI의 LLM을 활용하여 사용자 질문에 대한 답변을 생성하는 Streamlit 웹 애플리케이션입니다.
 
